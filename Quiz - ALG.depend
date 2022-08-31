@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1661226206 source:f:\test\main.c
+	<windows.h>
+	"resource.h"
+
+1661213746 f:\test\resource.h
+
+1661311350 source:c:\users\nori-\documents\test\test\main.c
+	<windows.h>
+	<wingdi.h>
+	<windowsx.h>
+	"resource.h"
+
+1661305306 c:\users\nori-\documents\test\test\resource.h
+
+1661432036 source:d:\quiz - alg\main.c
+	<windows.h>
+	<wingdi.h>
+	<windowsx.h>
+	"resource.h"
+
+1661432034 d:\quiz - alg\resource.h
+
+1661702142 source:c:\users\nori-\downloads\quiz - alg\main.c
+	<windows.h>
+	<wingdi.h>
+	<windowsx.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"resource.h"
+
+1661432034 c:\users\nori-\downloads\quiz - alg\resource.h
+
